@@ -4,4 +4,4 @@ def c(n):
         a,b=b,a+b
     return a
 d=int(input())
-print(c(d-1))
+print(c(d-1)*2)
